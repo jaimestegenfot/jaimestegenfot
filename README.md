@@ -56,13 +56,61 @@
 
 ## ✨ Características
 
-- 🎯 **Portafolio Profesional**: Presentación de proyectos y experiencia técnica
-- 💼 **Proyectos Destacados**: Demostración de habilidades en diferentes tecnologías
-- 📊 **Análisis de Código**: Métricas y estadísticas de contribuciones
-- 🔧 **Herramientas de Desarrollo**: Recursos y utilidades para desarrolladores
-- 📚 **Documentación Técnica**: Guías y tutoriales de programación
-- 🌐 **Blog Técnico**: Artículos sobre desarrollo de software
-- 📧 **Contacto Profesional**: Formulario de contacto para oportunidades laborales
+<div align="center">
+  <h3>🚀 Lo que encontrarás en mi portafolio</h3>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+        <br><b>Portafolio Profesional</b>
+        <br>Presentación de proyectos y experiencia técnica
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Projects-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+        <br><b>Proyectos Destacados</b>
+        <br>Demostración de habilidades en diferentes tecnologías
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Analytics-00D4FF?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Analytics" />
+        <br><b>Análisis de Código</b>
+        <br>Métricas y estadísticas de contribuciones
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Tools-FF6B6B?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Tools" />
+        <br><b>Herramientas de Desarrollo</b>
+        <br>Recursos y utilidades para desarrolladores
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Documentation-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Documentation" />
+        <br><b>Documentación Técnica</b>
+        <br>Guías y tutoriales de programación
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Blog-9C27B0?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
+        <br><b>Blog Técnico</b>
+        <br>Artículos sobre desarrollo de software
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/Contact-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact" />
+        <br><b>Contacto Profesional</b>
+        <br>Formulario de contacto para oportunidades laborales
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="features-gif" />
+</div>
 
 ## 🛠️ Stack Tecnológico
 
