@@ -29,7 +29,7 @@
 
 ## 🌟 Descripción
 
-**Jaime Stegen** es un Ingeniero de Sistemas e Informática apasionado por el desarrollo de software, con experiencia en la creación de soluciones tecnológicas innovadoras y eficientes.
+soy Ingeniero de Sistemas e Informática apasionado por el desarrollo de software, con experiencia en la creación de soluciones tecnológicas innovadoras y eficientes.
 
 Este repositorio contiene mi portafolio personal, proyectos destacados y recursos de desarrollo que demuestran mi experiencia en diferentes tecnologías y metodologías de desarrollo.
 
