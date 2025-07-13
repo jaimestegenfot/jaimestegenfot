@@ -29,9 +29,30 @@
 
 ## 🌟 Descripción
 
-soy Ingeniero de Sistemas e Informática apasionado por el desarrollo de software, con experiencia en la creación de soluciones tecnológicas innovadoras y eficientes.
+<div align="center">
 
-Este repositorio contiene mi portafolio personal, proyectos destacados y recursos de desarrollo que demuestran mi experiencia en diferentes tecnologías y metodologías de desarrollo.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="80" alt="devicon" />
+
+<h2>¡Hola! 👋</h2>
+
+<p>
+  <b>Soy Ingeniero de Sistemas e Informática</b> <br>
+  <span>Apasionado por el <b>desarrollo de software</b> y la creación de soluciones tecnológicas innovadoras y eficientes.</span>
+</p>
+
+<p>
+  🚀 Este repositorio es mi <b>portafolio personal</b>, donde encontrarás:<br>
+  <ul align="left">
+    <li>✨ Proyectos destacados</li>
+    <li>🛠️ Recursos y utilidades para desarrolladores</li>
+    <li>📚 Artículos y tutoriales técnicos</li>
+    <li>💡 Experiencia en diferentes tecnologías y metodologías</li>
+  </ul>
+</p>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
+
+</div>
 
 ## ✨ Características
 
