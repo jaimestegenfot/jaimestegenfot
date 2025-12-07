@@ -112,13 +112,18 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="features-gif" />
 </div>
 
-## 🛠️ Stack Tecnológico
-<p>
-  <b>Stack Tecnológico</b> <br>
-  <span>Apasionado por el <b>desarrollo de software</b> y la creación de soluciones tecnológicas innovadoras y eficientes.</span>
-</p>
-### 💻 Lenguajes de Programación
+
 <div align="center">
+  <p>
+    <b>Stack Tecnológico</b> <br>
+    <span>..</span>
+  </p>
+</div>
+<div align="center">
+  <p>
+    <b>💻 Lenguajes de Programación</b> <br>
+    <span>..</span>
+  </p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -219,3 +224,4 @@
  
 
  
+
