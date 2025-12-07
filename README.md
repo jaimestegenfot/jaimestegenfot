@@ -113,7 +113,10 @@
 </div>
 
 ## 🛠️ Stack Tecnológico
-
+<p>
+  <b>Stack Tecnológico</b> <br>
+  <span>Apasionado por el <b>desarrollo de software</b> y la creación de soluciones tecnológicas innovadoras y eficientes.</span>
+</p>
 ### 💻 Lenguajes de Programación
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -214,4 +217,5 @@
 
 *Desarrollado con ❤️ y ☕ por Jaime Stegen* #   j a i m e s t e g e n f o t 
  
+
  
