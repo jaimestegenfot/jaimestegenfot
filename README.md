@@ -1,4 +1,4 @@
-#Jaime Stegen - Ingeniero de Sistemas e Informática
+# Jaime Stegen - Ingeniero de Sistemas e Informática
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hola%2C+soy+Jaime+Stegen;Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
